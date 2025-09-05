@@ -1,0 +1,15 @@
+{"name":"bookapp",
+"version":"0.0.1",
+"private":true,
+"scripts":{
+    "start":"node node_modules/react-native/local-cli/cli.js start/react-native run-android"
+    },
+    "dependencies":{
+        "@react-navigation/bottom-tabs":"^7.4.7",
+        "@react-navigation/native":"^7.1.17",
+        "react-native":"0.81.1",
+        "react-native-gesture-handler":"^2.28.0",
+        "react-native-reanimated":"^4.1.0","react-native-safe-area-context":"^5.6.1",
+        "react-native-screens":"^4.16.0"
+        }
+    }
